@@ -6,7 +6,8 @@ target/
 Thumbs.db
 settings.xml
 javadoc
- 
+.properties
+
 # built application files
 *.apk
 *.ap_
